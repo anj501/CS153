@@ -1,3 +1,8 @@
+Files updated in this project are: "Lab1_test_getsiblings.c", "Makefile", "cat.c", "defs.h", "echo.c", "forktest.c", "grep.c", "init.c", "initcode.S", "kill.c", 
+"lab1_test.c", "ln.c", "ls.c", "mkdir.c", "proc.c", "rm.c", "sh.c", "stressfs.c", "syscall.c", "syscall.h", "sysproc.c", "test.c", "trap.c", "user.h", 
+"usertests.c", "usys.S", "wc.c", "zombie.c"
+
+
 Try `./codespace.sh` if terminal not working properly.
 
 NOTE: we have stopped maintaining the x86 version of xv6, and switched
